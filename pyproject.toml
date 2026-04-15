@@ -1,0 +1,7 @@
+[project]
+name = "emotion-analyzer"
+version = "0.1.0"
+description = "AI Emotion & Intent Analyzer using ML + Rule-based system"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
